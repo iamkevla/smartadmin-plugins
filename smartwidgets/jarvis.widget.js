@@ -808,7 +808,7 @@
 					});
 			}
 
-			initialized = true;
+			self.initialized = true;
         },
 
         /**
